@@ -9,4 +9,4 @@ if quantidade_caracteres <= LIMITE_TWEET:
     print("* TWEET *")
 else:
     print("Oops! Seu texto ultrapassou o limite de 140 caracteres.")
-    print("* MUTAR *")
+    print("* MUTE *")
